@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("master");
         System.out.println("push");
         System.out.println("我知道了");
+           System.out.println("pull");
     }
 }
